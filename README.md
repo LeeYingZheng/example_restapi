@@ -1,4 +1,4 @@
-# example_restapi
+# REST API Development
 This repository is used for learning and practising with REST API development.
 
 This repository follows the introduction course to REST API development provided courtesy of freecodecamp.org: 
